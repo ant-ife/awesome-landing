@@ -22,12 +22,14 @@
   },
   "author": "",
   "license": "MIT",
+  "dependencies": {
+    "@babel/runtime": "^7.0.0",
+  },
   "devDependencies": {
     "@babel/cli": "^7.0.0",
     "@babel/core": "^7.0.1",
     "@babel/plugin-transform-runtime": "^7.0.0",
     "@babel/preset-env": "^7.0.0",
-    "@babel/runtime": "^7.0.0",
     "eslint": "^5.5.0",
     "eslint-config-antife": "^1.0.3"
   }
