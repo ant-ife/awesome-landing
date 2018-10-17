@@ -1,0 +1,34 @@
+{
+  "name": "awesome-link",
+  "version": "1.0.0",
+  "description": "redirect from webpage to mobile application",
+  "main": "./lib/common-landing.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "babel": "babel ./src --out-dir ./lib",
+    "dev": "babel ./src --watch --out-dir ./lib",
+    "lint": "eslint --fix src",
+    "test": "npm run lint",
+    "prepublishOnly": "npm run babel"
+  },
+  "engines": {
+    "node": "8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ant-ife/awesome-link.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.0.0",
+    "@babel/core": "^7.0.1",
+    "@babel/plugin-transform-runtime": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/runtime": "^7.0.0",
+    "eslint": "^5.5.0",
+    "eslint-config-antife": "^1.0.3"
+  }
+}
