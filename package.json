@@ -1,6 +1,6 @@
 {
   "name": "awesome-landing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "redirect from webpage to mobile application",
   "main": "./lib/common-landing.js",
   "files": [
