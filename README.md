@@ -1,18 +1,18 @@
-# awesome-link
+# awesome-landing
 
 [![NPM version][npm-image]][npm-url]
 [![build status][travis-image]][travis-url]
 [![Test coverage][coveralls-image]][coveralls-url]
 [![npm download][download-image]][download-url]
 
-[npm-image]: https://img.shields.io/npm/v/awesome-link.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/awesome-link
-[travis-image]: https://img.shields.io/travis/ant-ife/awesome-link.svg?style=flat-square
-[travis-url]: https://travis-ci.org/ant-ife/awesome-link
-[coveralls-image]: https://img.shields.io/coveralls/ant-ife/awesome-link.svg?style=flat-square
-[coveralls-url]: https://coveralls.io/r/ant-ife/awesome-link?branch=master
-[download-image]: https://img.shields.io/npm/dm/awesome-link.svg?style=flat-square
-[download-url]: https://npmjs.org/package/awesome-link
+[npm-image]: https://img.shields.io/npm/v/awesome-landing.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/awesome-landing
+[travis-image]: https://img.shields.io/travis/ant-ife/awesome-landing.svg?style=flat-square
+[travis-url]: https://travis-ci.org/ant-ife/awesome-landing
+[coveralls-image]: https://img.shields.io/coveralls/ant-ife/awesome-landing.svg?style=flat-square
+[coveralls-url]: https://coveralls.io/r/ant-ife/awesome-landing?branch=master
+[download-image]: https://img.shields.io/npm/dm/awesome-landing.svg?style=flat-square
+[download-url]: https://npmjs.org/package/awesome-landing
 
 ---
 
@@ -21,7 +21,7 @@
 ### **open** and **download** all in one
 
 ```javascript
-import commonLanding from 'awesome-link'
+import commonLanding from 'awesome-landing'
 
 // for open app
 const urlScheme = 'appscheme://app.scheme'
@@ -56,7 +56,7 @@ Theses params are optional:
 import {
   openApp,
   download,
-} from 'awesome-link'
+} from 'awesome-landing'
 
 // for open app
 const urlScheme = 'appscheme://app.scheme'

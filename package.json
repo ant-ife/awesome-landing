@@ -1,5 +1,5 @@
 {
-  "name": "awesome-link",
+  "name": "awesome-landing",
   "version": "1.0.0",
   "description": "redirect from webpage to mobile application",
   "main": "./lib/common-landing.js",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:ant-ife/awesome-link.git"
+    "url": "git@github.com:ant-ife/awesome-landing.git"
   },
   "author": "",
   "license": "MIT",
