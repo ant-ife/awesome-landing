@@ -11,7 +11,9 @@
     "dev": "babel ./src --watch --out-dir ./lib",
     "lint": "eslint --fix src",
     "test": "npm run lint",
-    "prepublishOnly": "npm run babel"
+    "prepublishOnly": "npm run babel",
+    "contributor": "git-contributor",
+    "ci": "npm run lint"
   },
   "engines": {
     "node": "8"

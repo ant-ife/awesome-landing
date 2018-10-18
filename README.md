@@ -96,3 +96,14 @@ download({
 ```javascript
 window.sessionStorage.DEBUG_SCHEME_UA = YOUR_MOCK_UA_STRING
 ```
+<!-- GITCONTRIBUTOR_START -->
+
+## Contributors
+
+|[<img src="https://avatars0.githubusercontent.com/u/13585043?v=4" width="100px;"/><br/><sub><b>yangmingshan</b></sub>](https://github.com/yangmingshan)<br/>|[<img src="https://avatars1.githubusercontent.com/u/2139038?v=4" width="100px;"/><br/><sub><b>zhangyuheng</b></sub>](https://github.com/zhangyuheng)<br/>|[<img src="https://avatars1.githubusercontent.com/u/1011681?v=4" width="100px;"/><br/><sub><b>xudafeng</b></sub>](https://github.com/xudafeng)<br/>
+| :---: | :---: | :---: |
+
+
+This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto upated at `Thu Oct 18 2018 11:07:22 GMT+0800`.
+
+<!-- GITCONTRIBUTOR_END -->
